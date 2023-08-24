@@ -1,0 +1,105 @@
+[03-Mar-2023 06:53:55 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/luukcomm/public_html/index.php:332
+Stack trace:
+#0 /home4/luukcomm/public_html/index.php(332): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home4/luukcomm/public_html/index.php on line 332
+[03-Mar-2023 17:07:22 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/luukcomm/public_html/index.php:332
+Stack trace:
+#0 /home4/luukcomm/public_html/index.php(332): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home4/luukcomm/public_html/index.php on line 332
+[03-Mar-2023 17:07:33 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/luukcomm/public_html/index.php:332
+Stack trace:
+#0 /home4/luukcomm/public_html/index.php(332): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home4/luukcomm/public_html/index.php on line 332
+[03-Mar-2023 17:07:33 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/luukcomm/public_html/index.php:332
+Stack trace:
+#0 /home4/luukcomm/public_html/index.php(332): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home4/luukcomm/public_html/index.php on line 332
+[03-Mar-2023 17:07:33 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/luukcomm/public_html/index.php:332
+Stack trace:
+#0 /home4/luukcomm/public_html/index.php(332): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home4/luukcomm/public_html/index.php on line 332
+[03-Mar-2023 17:08:34 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/luukcomm/public_html/index.php:332
+Stack trace:
+#0 /home4/luukcomm/public_html/index.php(332): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home4/luukcomm/public_html/index.php on line 332
+[03-Mar-2023 17:08:35 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/luukcomm/public_html/index.php:332
+Stack trace:
+#0 /home4/luukcomm/public_html/index.php(332): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home4/luukcomm/public_html/index.php on line 332
+[03-Mar-2023 17:08:56 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/luukcomm/public_html/index.php:332
+Stack trace:
+#0 /home4/luukcomm/public_html/index.php(332): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home4/luukcomm/public_html/index.php on line 332
+[03-Mar-2023 17:11:10 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/luukcomm/public_html/index.php:332
+Stack trace:
+#0 /home4/luukcomm/public_html/index.php(332): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home4/luukcomm/public_html/index.php on line 332
+[03-Mar-2023 17:37:14 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/luukcomm/public_html/index.php:332
+Stack trace:
+#0 /home4/luukcomm/public_html/index.php(332): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home4/luukcomm/public_html/index.php on line 332
+[03-Mar-2023 17:37:14 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/luukcomm/public_html/index.php:332
+Stack trace:
+#0 /home4/luukcomm/public_html/index.php(332): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home4/luukcomm/public_html/index.php on line 332
+[03-Mar-2023 18:05:45 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/luukcomm/public_html/index.php:332
+Stack trace:
+#0 /home4/luukcomm/public_html/index.php(332): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home4/luukcomm/public_html/index.php on line 332
+[03-Mar-2023 18:18:38 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/luukcomm/public_html/index.php:347
+Stack trace:
+#0 /home4/luukcomm/public_html/index.php(347): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home4/luukcomm/public_html/index.php on line 347
+[03-Mar-2023 18:20:27 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/luukcomm/public_html/index.php:347
+Stack trace:
+#0 /home4/luukcomm/public_html/index.php(347): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home4/luukcomm/public_html/index.php on line 347
+[03-Mar-2023 18:37:33 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/luukcomm/public_html/index.php:347
+Stack trace:
+#0 /home4/luukcomm/public_html/index.php(347): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home4/luukcomm/public_html/index.php on line 347
+[03-Mar-2023 19:07:09 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/luukcomm/public_html/index.php:347
+Stack trace:
+#0 /home4/luukcomm/public_html/index.php(347): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home4/luukcomm/public_html/index.php on line 347
+[03-Mar-2023 19:07:09 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/luukcomm/public_html/index.php:347
+Stack trace:
+#0 /home4/luukcomm/public_html/index.php(347): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home4/luukcomm/public_html/index.php on line 347
+[03-Mar-2023 20:04:27 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/luukcomm/public_html/index.php:347
+Stack trace:
+#0 /home4/luukcomm/public_html/index.php(347): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home4/luukcomm/public_html/index.php on line 347
+[03-Mar-2023 20:04:27 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/luukcomm/public_html/index.php:347
+Stack trace:
+#0 /home4/luukcomm/public_html/index.php(347): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home4/luukcomm/public_html/index.php on line 347
+[03-Mar-2023 20:04:29 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/luukcomm/public_html/index.php:347
+Stack trace:
+#0 /home4/luukcomm/public_html/index.php(347): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home4/luukcomm/public_html/index.php on line 347
+[03-Mar-2023 22:06:04 America/Mexico_City] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/luukcomm/public_html/index.php:347
+Stack trace:
+#0 /home4/luukcomm/public_html/index.php(347): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home4/luukcomm/public_html/index.php on line 347

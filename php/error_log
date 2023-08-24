@@ -1,0 +1,131 @@
+[03-Mar-2023 22:29:01 America/Mexico_City] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/luukcomm/public_html/php/Login.php on line 6
+[03-Mar-2023 22:29:01 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/luukcomm/public_html/php/Login.php on line 13
+[03-Mar-2023 22:29:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/luukcomm/public_html/php/Login.php:20
+Stack trace:
+#0 /home4/luukcomm/public_html/php/Login.php(20): mysqli->query('SELECT * FROM u...')
+#1 {main}
+  thrown in /home4/luukcomm/public_html/php/Login.php on line 20
+[03-Mar-2023 22:29:19 America/Mexico_City] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/luukcomm/public_html/php/Login.php on line 6
+[03-Mar-2023 22:29:19 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/luukcomm/public_html/php/Login.php on line 13
+[03-Mar-2023 22:29:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/luukcomm/public_html/php/Login.php:20
+Stack trace:
+#0 /home4/luukcomm/public_html/php/Login.php(20): mysqli->query('SELECT * FROM u...')
+#1 {main}
+  thrown in /home4/luukcomm/public_html/php/Login.php on line 20
+[03-Mar-2023 22:29:40 America/Mexico_City] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/luukcomm/public_html/php/Login.php on line 6
+[03-Mar-2023 22:29:40 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/luukcomm/public_html/php/Login.php on line 13
+[03-Mar-2023 22:29:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/luukcomm/public_html/php/Login.php:20
+Stack trace:
+#0 /home4/luukcomm/public_html/php/Login.php(20): mysqli->query('SELECT * FROM u...')
+#1 {main}
+  thrown in /home4/luukcomm/public_html/php/Login.php on line 20
+[03-Mar-2023 22:30:23 America/Mexico_City] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/luukcomm/public_html/php/Login.php on line 6
+[03-Mar-2023 22:30:23 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/luukcomm/public_html/php/Login.php on line 13
+[03-Mar-2023 22:30:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/luukcomm/public_html/php/Login.php:20
+Stack trace:
+#0 /home4/luukcomm/public_html/php/Login.php(20): mysqli->query('SELECT * FROM u...')
+#1 {main}
+  thrown in /home4/luukcomm/public_html/php/Login.php on line 20
+[03-Mar-2023 22:30:38 America/Mexico_City] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/luukcomm/public_html/php/Login.php on line 6
+[03-Mar-2023 22:30:38 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/luukcomm/public_html/php/Login.php on line 13
+[03-Mar-2023 22:30:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home4/luukcomm/public_html/php/Login.php:20
+Stack trace:
+#0 /home4/luukcomm/public_html/php/Login.php(20): mysqli->query('SELECT * FROM u...')
+#1 {main}
+  thrown in /home4/luukcomm/public_html/php/Login.php on line 20
+[03-Mar-2023 23:29:49 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/luukcomm/public_html/php/galeria.php on line 14
+[03-Mar-2023 23:29:49 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 16
+[03-Mar-2023 23:29:49 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 16
+[03-Mar-2023 23:29:49 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 19
+[03-Mar-2023 23:29:49 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 19
+[03-Mar-2023 23:29:54 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/luukcomm/public_html/php/galeria.php on line 14
+[03-Mar-2023 23:29:54 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 16
+[03-Mar-2023 23:29:54 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 16
+[03-Mar-2023 23:29:54 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 19
+[03-Mar-2023 23:29:54 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 19
+[03-Mar-2023 23:30:02 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/luukcomm/public_html/php/galeria.php on line 14
+[03-Mar-2023 23:30:02 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 16
+[03-Mar-2023 23:30:02 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 16
+[03-Mar-2023 23:30:02 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 19
+[03-Mar-2023 23:30:02 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 19
+[03-Mar-2023 23:37:16 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/luukcomm/public_html/php/galeria.php on line 14
+[03-Mar-2023 23:37:16 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 16
+[03-Mar-2023 23:37:16 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 16
+[03-Mar-2023 23:37:16 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 19
+[03-Mar-2023 23:37:16 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 19
+[03-Mar-2023 23:37:30 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/luukcomm/public_html/php/galeria.php on line 14
+[03-Mar-2023 23:37:30 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 16
+[03-Mar-2023 23:37:30 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 16
+[03-Mar-2023 23:37:30 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 19
+[03-Mar-2023 23:37:30 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 19
+[04-Mar-2023 00:15:52 America/Mexico_City] PHP Warning:  Undefined array key "Nombre" in /home4/luukcomm/public_html/php/admin.php on line 251
+[04-Mar-2023 00:15:52 America/Mexico_City] PHP Warning:  Undefined array key "Nombre" in /home4/luukcomm/public_html/php/admin.php on line 251
+[04-Mar-2023 00:15:52 America/Mexico_City] PHP Warning:  Undefined array key "Nombre" in /home4/luukcomm/public_html/php/admin.php on line 251
+[04-Mar-2023 00:15:52 America/Mexico_City] PHP Warning:  Undefined array key "Nombre" in /home4/luukcomm/public_html/php/admin.php on line 251
+[04-Mar-2023 00:15:52 America/Mexico_City] PHP Warning:  Undefined array key "Nombre" in /home4/luukcomm/public_html/php/admin.php on line 251
+[04-Mar-2023 00:18:22 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/luukcomm/public_html/php/galeria.php on line 14
+[04-Mar-2023 00:18:22 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 16
+[04-Mar-2023 00:18:22 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 16
+[04-Mar-2023 00:18:22 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 19
+[04-Mar-2023 00:18:22 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 19
+[04-Mar-2023 00:18:26 America/Mexico_City] PHP Warning:  Undefined array key "Nombre" in /home4/luukcomm/public_html/php/admin.php on line 251
+[04-Mar-2023 00:18:26 America/Mexico_City] PHP Warning:  Undefined array key "Nombre" in /home4/luukcomm/public_html/php/admin.php on line 251
+[04-Mar-2023 00:18:26 America/Mexico_City] PHP Warning:  Undefined array key "Nombre" in /home4/luukcomm/public_html/php/admin.php on line 251
+[04-Mar-2023 00:18:26 America/Mexico_City] PHP Warning:  Undefined array key "Nombre" in /home4/luukcomm/public_html/php/admin.php on line 251
+[04-Mar-2023 00:18:26 America/Mexico_City] PHP Warning:  Undefined array key "Nombre" in /home4/luukcomm/public_html/php/admin.php on line 251
+[04-Mar-2023 00:18:27 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/luukcomm/public_html/php/galeria.php on line 14
+[04-Mar-2023 00:18:27 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 16
+[04-Mar-2023 00:18:27 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 16
+[04-Mar-2023 00:18:27 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 19
+[04-Mar-2023 00:18:27 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 19
+[04-Mar-2023 00:18:29 America/Mexico_City] PHP Warning:  Undefined array key "Nombre" in /home4/luukcomm/public_html/php/admin.php on line 251
+[04-Mar-2023 00:18:29 America/Mexico_City] PHP Warning:  Undefined array key "Nombre" in /home4/luukcomm/public_html/php/admin.php on line 251
+[04-Mar-2023 00:18:29 America/Mexico_City] PHP Warning:  Undefined array key "Nombre" in /home4/luukcomm/public_html/php/admin.php on line 251
+[04-Mar-2023 00:18:29 America/Mexico_City] PHP Warning:  Undefined array key "Nombre" in /home4/luukcomm/public_html/php/admin.php on line 251
+[04-Mar-2023 00:18:29 America/Mexico_City] PHP Warning:  Undefined array key "Nombre" in /home4/luukcomm/public_html/php/admin.php on line 251
+[04-Mar-2023 00:21:20 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/luukcomm/public_html/php/galeria.php on line 14
+[04-Mar-2023 00:21:20 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 16
+[04-Mar-2023 00:21:20 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 16
+[04-Mar-2023 00:21:20 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 19
+[04-Mar-2023 00:21:20 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 19
+[04-Mar-2023 02:13:19 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/luukcomm/public_html/php/galeria.php on line 14
+[04-Mar-2023 02:13:19 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 16
+[04-Mar-2023 02:13:19 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 16
+[04-Mar-2023 02:13:19 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 19
+[04-Mar-2023 02:13:19 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 19
+[04-Mar-2023 02:13:20 America/Mexico_City] PHP Warning:  Undefined array key "usuario" in /home4/luukcomm/public_html/php/mensajes.php on line 12
+[04-Mar-2023 02:13:20 America/Mexico_City] PHP Warning:  Undefined array key "usuario" in /home4/luukcomm/public_html/php/mensajes.php on line 15
+[27-Mar-2023 21:43:13 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/luukcomm/public_html/php/galeria.php on line 14
+[27-Mar-2023 21:43:13 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 16
+[27-Mar-2023 21:43:13 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 16
+[27-Mar-2023 21:43:13 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 19
+[27-Mar-2023 21:43:13 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 19
+[27-Mar-2023 21:43:19 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/luukcomm/public_html/php/galeria.php on line 14
+[27-Mar-2023 21:43:19 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 16
+[27-Mar-2023 21:43:19 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 16
+[27-Mar-2023 21:43:19 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 19
+[27-Mar-2023 21:43:19 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 19
+[27-Mar-2023 21:43:52 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/luukcomm/public_html/php/galeria.php on line 14
+[27-Mar-2023 21:43:52 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 16
+[27-Mar-2023 21:43:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 16
+[27-Mar-2023 21:43:52 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 19
+[27-Mar-2023 21:43:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 19
+[27-Mar-2023 21:44:05 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/luukcomm/public_html/php/galeria.php on line 14
+[27-Mar-2023 21:44:05 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 16
+[27-Mar-2023 21:44:05 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 16
+[27-Mar-2023 21:44:05 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 19
+[27-Mar-2023 21:44:05 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 19
+[27-Mar-2023 21:44:28 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/luukcomm/public_html/php/galeria.php on line 14
+[27-Mar-2023 21:44:28 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 16
+[27-Mar-2023 21:44:28 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 16
+[27-Mar-2023 21:44:28 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 19
+[27-Mar-2023 21:44:28 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 19
+[27-Mar-2023 21:45:23 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/luukcomm/public_html/php/galeria.php on line 14
+[27-Mar-2023 21:45:23 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 16
+[27-Mar-2023 21:45:23 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 16
+[14-Apr-2023 00:40:43 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/luukcomm/public_html/php/galeria.php on line 14
+[14-Apr-2023 00:40:43 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 16
+[14-Apr-2023 00:40:43 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 16
+[14-Apr-2023 00:45:51 America/Mexico_City] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/luukcomm/public_html/php/galeria.php on line 14
+[14-Apr-2023 00:45:51 America/Mexico_City] PHP Warning:  Undefined variable $_SESSION in /home4/luukcomm/public_html/php/galeria.php on line 16
+[14-Apr-2023 00:45:51 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in /home4/luukcomm/public_html/php/galeria.php on line 16
